@@ -12,16 +12,16 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Machiavelli Siethon"
+        self.name = "Velli Sie"
         self.role = "Beginner"
-        self.language_spoken = ["en_US"]
+        self.language_spoken = ["en_US", "中文_CN", "福建話_FUJIAN"]
 
 
 
 me = SoftwareEngineer()
 ```
 ## Skills
-• 💻 Python / A bit of C++
+• 💻 Python / HTML
 
 
 ## 🏆 GitHub Trophies
