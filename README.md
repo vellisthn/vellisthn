@@ -13,7 +13,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Velli Sie"
-        self.role = "Beginner"
+        self.role = "Intermediate"
         self.language_spoken = ["en_US", "中文_CN", "福建話_FUJIAN"]
 
 
@@ -21,9 +21,5 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 ```
 ## Skills
-• 💻 Python / HTML
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=McMaccc&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+• 💻 Python 1 year
+• Learning C++ and HTML+JS
