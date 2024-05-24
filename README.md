@@ -14,7 +14,11 @@ class Student:
     def __init__(self):
         self.name = "Velli Sie"
         self.role = "Intermediate"
-        self.language_spoken = {"en_US": "Main", "中文_CN": "To Fellow Chinese Friends", "福建話_FUJIAN": "To My Family Members"}
+        self.language_spoken = {
+        "en_US": "Main",
+        "中文_CN": "To Fellow Chinese Friends",
+        "福建話_FUJIAN": "To My Family Members"
+        }
         self.skills = {"Python": "2 Years", "HTML": "Currently Learning with little bit of JS"}
 
 
