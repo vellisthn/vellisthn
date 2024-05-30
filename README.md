@@ -29,7 +29,7 @@
   <summary><b>🛒 &nbsp;Discord</b></summary>
   <br/>
   <p align="center">
-    <a href="[https://github.com/0-don/coding.global-bot](https://discord.gg/j8a2Z64Rkg)">
+    <a href="[https://discord.gg/j8a2Z64Rkg]">
       DN4
     </a>
 </p>
