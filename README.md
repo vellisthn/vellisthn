@@ -39,7 +39,7 @@ Ultralytics
   <summary><b>🌐 &nbsp;Website</b></summary>
   <br/>
   <p align="center">
-    <a href="[asynccheats.xyz](https://asynccheats.xyz/)">
+    <a href="https://asynccheats.xyz/">
       Asynccheats.xyz
     </a>
 </p>
