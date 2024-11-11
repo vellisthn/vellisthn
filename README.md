@@ -31,7 +31,14 @@ Ultralytics
   <br/>
   <p align="center">
     <a href="https://discord.gg/j8a2Z64Rkg">
-      DN4
+      Async.xyz
+    </a>
+</p>
+  <summary><b>🛒 &nbsp;Website</b></summary>
+  <br/>
+  <p align="center">
+    <a href="asynccheats.xyz">
+      Asynccheats.xyz
     </a>
 </p>
 </details>
