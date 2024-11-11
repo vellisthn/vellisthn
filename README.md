@@ -36,10 +36,10 @@ Ultralytics
 </p>
 </details>
 <details>
-  <summary><b>🛒 &nbsp;Website</b></summary>
+  <summary><b>🌐 &nbsp;Website</b></summary>
   <br/>
   <p align="center">
-    <a href="asynccheats.xyz">
+    <a href="[asynccheats.xyz](https://asynccheats.xyz/)">
       Asynccheats.xyz
     </a>
 </p>
