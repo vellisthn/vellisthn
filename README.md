@@ -34,6 +34,8 @@ Ultralytics
       Async.xyz
     </a>
 </p>
+</details>
+<details>
   <summary><b>🛒 &nbsp;Website</b></summary>
   <br/>
   <p align="center">
