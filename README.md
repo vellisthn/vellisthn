@@ -26,21 +26,4 @@ Ultralytics
 
 ## ⭐ My Projects
 
-<details>
-  <summary><b>🛒 &nbsp;Discord</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://discord.gg/j8a2Z64Rkg">
-      Async.xyz
-    </a>
-</p>
-</details>
-<details>
-  <summary><b>🌐 &nbsp;Website</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://asynccheats.xyz/">
-      Asynccheats.xyz
-    </a>
-</p>
-</details>
+Currently Private
