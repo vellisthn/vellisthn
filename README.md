@@ -8,7 +8,7 @@
 ### Languages
 
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![c++](https://img.shields.io/badge/cpp-black?style=flat-square&logo=cpp)
+![c++](https://img.shields.io/badge/cplusplus-black?style=flat-square&logo=cpp)
 
 ### Technologies & Frameworks
 
