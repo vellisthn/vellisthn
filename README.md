@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-I'm a 15-year-old student at Santa Laurensia, passionate about programming and technology. I love building desktop applications and exploring computer vision with AI!
+I'm a 15-year-old student at Santa Laurensia, passionate about programming and technology. I love building desktop applications and frameworks for CSEC!
 
 - 🔭 Currently working on exciting projects (coming soon!)
 - 🌱 Always learning and improving my skills
@@ -37,12 +37,12 @@ I'm a 15-year-old student at Santa Laurensia, passionate about programming and t
 - Building desktop applications with modern GUI frameworks
 - Exploring computer vision and object detection
 - Learning best practices in software development
-- Contributing to open-source projects
+- Contributing to open-source cybersec projects
 
 ## 📫 Let's Connect!
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com (optional)
+- GitHub: [@vellisthn](https://github.com/vellisthn)
+- Email: machiavellisiethon@gmail.com 
 
 ---
 
