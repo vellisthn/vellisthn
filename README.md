@@ -46,4 +46,3 @@ I'm a 15-year-old student at Santa Laurensia, passionate about programming and t
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
