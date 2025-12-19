@@ -8,7 +8,6 @@ I'm a 15-year-old student at Santa Laurensia, passionate about programming and t
 
 - 🔭 Currently working on exciting projects (coming soon!)
 - 🌱 Always learning and improving my skills
-- 💡 Interested in GUI development and machine learning
 - 📫 Feel free to reach out and connect!
 
 ## 🚀 Technologies & Tools
@@ -42,14 +41,6 @@ I'm a 15-year-old student at Santa Laurensia, passionate about programming and t
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-
-
-## 🎯 Current Focus
-
-- Building desktop applications with modern GUI frameworks
-- Exploring computer vision and object detection
-- Learning best practices in software development
-- Contributing to open-source cybersec projects
 
 ## 📫 Let's Connect!
 
